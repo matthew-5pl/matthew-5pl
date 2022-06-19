@@ -1,2 +1,3 @@
-### Matteo Forlani (he/they)
-I don't know what to put here... 🤷
+### Matteo Forlani
+he/they - aspriring c programmer
+loves to tinker with mcus and homebrew dev
